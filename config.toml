@@ -57,10 +57,9 @@ hard_link_static = false
 #     ]
 #
 taxonomies = [
-    { name = "categories", feed = true, paginate_by = 10 },
-    { name = "tags", fees = true, paginate_by = 10 },
+  { name = "categories", feed = true, paginate_by = 10 },
+  { name = "tags", fees = true, paginate_by = 10 },
 ]
-
 
 
 # Configuration of the Markdown rendering
@@ -96,14 +95,10 @@ smart_punctuation = false
 # Configuration of the link checker.
 [link_checker]
 # Skip link checking for external URLs that start with these prefixes
-skip_prefixes = [
-    "http://[2001:db8::]/",
-]
+skip_prefixes = ["http://[2001:db8::]/"]
 
 # Skip anchor checking for external URLs that start with these prefixes
-skip_anchor_prefixes = [
-    "https://caniuse.com/",
-]
+skip_anchor_prefixes = ["https://caniuse.com/"]
 
 # Various slugification strategies, see below for details
 # Defaults to everything being a slug
@@ -166,13 +161,13 @@ mermaid.enabled = true
 galleria.enabled = true
 
 navbar_items = [
-    { code = "en", nav_items = [
-        { url = "$BASE_URL/", name = "Home" },
-        { url = "$BASE_URL/posts", name = "Posts" },
-        { url = "$BASE_URL/docs", name = "Docs" },
-        { url = "$BASE_URL/tags", name = "Tags" },
-        { url = "$BASE_URL/categories", name = "Categories" },
-    ] },
+  { code = "en", nav_items = [
+    { url = "$BASE_URL/", name = "Home" },
+    { url = "$BASE_URL/posts", name = "Posts" },
+    { url = "$BASE_URL/times", name = "Times" },
+    { url = "$BASE_URL/tags", name = "Tags" },
+    { url = "$BASE_URL/categories", name = "Categories" },
+  ] },
 ]
 
 [extra.favicon]
@@ -208,3 +203,4 @@ disqus = "zeekrs"
 [extra.mapbox]
 enabled = false
 # access_token = "pk.eyJ1IjoicmF0YW5zaHJlc2h0aGEiLCJhIjoiY2tla2s2NmM3MDd0ZzJzbXFtc3Y2YmU0NyJ9.0RhUnJPKbxHWw3xGPnnBlA"
+

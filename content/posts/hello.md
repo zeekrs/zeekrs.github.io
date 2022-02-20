@@ -3,7 +3,7 @@ title="Hello World"
 date=2022-02-18
 
 [taxonomies]
-categories = ["日志"]
+categories = ["life"]
 tags = ["zola"]
 [extra]
 toc = true
@@ -16,4 +16,4 @@ comments = false
 
 就从这篇日志开始吧
 
-加持搞起来吧!!! 加油!!!!!!
+坚持搞起来吧!!! 加油!!!!!!

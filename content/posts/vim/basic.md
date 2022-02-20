@@ -288,6 +288,6 @@ example: `diw` `daw` `ciw` `caw` `viw` `vaw` `yiw` `yaw`
 ---
 
 
-[下一章 --  编写Vim配置,我的配置我做主](@/docs/vim/config.md)
+[下一章 --  编写Vim配置,我的配置我做主](@/posts/vim/config.md)
 
 
