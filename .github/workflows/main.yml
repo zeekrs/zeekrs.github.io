@@ -17,4 +17,5 @@ jobs:
           PAGES_BRANCH: gh-pages
           # Provide personal access token
           TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_HOSTNAME: blog.zeekrs.dev
       - run: echo "🍏 This job's status is ${{ job.status }}."
