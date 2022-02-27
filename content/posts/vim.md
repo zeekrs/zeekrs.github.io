@@ -18,3 +18,4 @@ comments = false
 
 - [初识Vim,想说爱你不容易](@/posts/vim/basic.md)
 - [编写Vim配置,我的Vim我做主](@/posts/vim/config.md) 
+- [Vim安装插件,竟如此简单](@/posts/vim/plugin.md) 
