@@ -51,3 +51,13 @@ Vim中的映射比较复杂 源于vim有多种模式
 - 了解常见常见的配置选项
 - 学习和使用Vim映射
 - [《笨方法学VimScript》](https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321)
+
+
+#### 从零配置自己的NeoVim
+
+- nvim 配置入口文件  `~/.config/nvim/init.lua`
+- vim options 配置 `lua/user/options` 
+- vim keymaps 配置 `lua/user/keymaps` 
+- vim plugins配置  `lua/user/plugins`
+
+
