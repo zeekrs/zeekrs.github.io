@@ -58,6 +58,6 @@ Vim中的映射比较复杂 源于vim有多种模式
 - nvim 配置入口文件  `~/.config/nvim/init.lua`
 - vim options 配置 `lua/user/options` 
 - vim keymaps 配置 `lua/user/keymaps` 
-- vim plugins配置  `lua/user/plugins`
+- vim plugins配置 使用packer管理插件  `lua/user/plugins`
 
 
