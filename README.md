@@ -1,11 +1,9 @@
-## Personal Blog
+# Personal Blog
 
 ---
 
-#### [link](blog.zeekrs.dev)
+### [blog.zeekrs.dev](blog.zeekrs.dev)
 
----
-
-##### Power by [zola](https://github.com/getzola/zola)
+##### Power By [zola](https://github.com/getzola/zola)
 
 ##### Theme [DeepThought](https://github.com/RatanShreshtha/DeepThought)
