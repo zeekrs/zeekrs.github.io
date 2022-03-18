@@ -2,7 +2,7 @@
 
 ---
 
-### [blog.zeekrs.dev](blog.zeekrs.dev)
+### [blog.zeekrs.dev](https://blog.zeekrs.dev)
 
 ##### Power By [zola](https://github.com/getzola/zola)
 
