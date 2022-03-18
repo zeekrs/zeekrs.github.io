@@ -10,12 +10,8 @@ toc = true
 comments = false
 +++
 
-
 > 本笔记记录一些 vim 的学习过程 主要用于熟练掌握 vim
 > 基础章节来自慕课网的视频教程 [《玩转 Vim 从放弃到爱不释手》](https://www.imooc.com/learn/1129)
-
-
-
 
 ## 初识 Vim 想说爱你不容易 {#basic}
 
@@ -260,8 +256,7 @@ example: `diw` `daw` `ciw` `caw` `viw` `vaw` `yiw` `yaw`
 
 ---
 
-
-##  编写Vim配置,我的Vim我做主 {#config}
+## 编写 Vim 配置,我的 Vim 我做主 {#config}
 
 vim 配置文件 `~/.vimrc`
 
@@ -295,30 +290,51 @@ Vim 中的映射比较复杂 源于 vim 有多种模式
 
 - 了解常见常见的配置选项
 - 学习和使用 Vim 映射
-- [《笨方法学 VimScript》](https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321)
 
 #### 从零配置自己的 NeoVim
 
-- nvim 配置入口文件 `~/.config/nvim/init.lua`
-- vim options 配置 `lua/user/options`
-- vim keymaps 配置 `lua/user/keymaps`
-- vim plugins 配置 使用 packer 管理插件 `lua/user/plugins`
+- 个人[Dotfiles](https://github.com/zeekrs/dotfiles)已上传至 Github
+- 使用[chezmoi](https://www.chezmoi.io)管理
 
-## 常Vim安装插件,竟如此简单 {#plugin}
+## 常 Vim 安装插件,竟如此简单 {#plugin}
 
-搜索相关
+参考
 
-- [vim-awesome](https://vimawesome.com/)
-- [nvim-awesome-git](https://github.com/rockerBOO/awesome-neovim)
-- [nvim-awesome](https://nvim-awesome.vercel.app/)
-- [nvim-craft](https://neovimcraft.com/)
+- [《笨方法学 VimScript》](https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321)
+- [Vim 从入门到精通](https://github.com/wsdjeg/vim-galore-zh_cn)
+- [Vim 帮助文档(中文)](https://yianwillis.github.io/vimcdoc/doc/quickref.html)
+- awesome-neovim [awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
 
-UI
+插件推荐
 
-- [vim-startify](https://github.com/mhinz/vim-startify)
-- [vim-airline](https://github.com/vim-airline/vim-airline)
-- [indentLine](https://github.com/Yggdroot/indentLine)
-
-FILE
-
-- [nerdtree](https://github.com/preservim/nerdtree)
+- 插件管理
+  - [packer](https://github.com/wbthomason/packer.nvim)
+- 主题
+  - [tokynight](https://github.com/folke/tokyonight.nvim)
+  - [nightfox](https://github.com/EdenEast/nightfox.nvim)
+- 自动补全 代码高亮格式化代码与诊断
+  - [lsp-config](https://github.com/neovim/nvim-lspconfig)
+  - [tree-sitter](https://github.com/nvim-treesitter/nvim-treesitter)
+  - [cmp](https://github.com/hrsh7th/nvim-cmp)
+  - [autopairs](https://github.com/windwp/nvim-autopairs)
+  - [aototag](https://github.com/windwp/nvim-ts-autotag)
+  - [rainbow](https://github.com/p00f/nvim-ts-rainbow)
+  - [null-ls](https://github.com/jose-elias-alvarez/null-ls.nvim)
+  - [comment](https://github.com/numToStr/Comment.nvim)
+  - [comment-string](https://github.com/JoosepAlviste/nvim-ts-context-commentstring)
+  - [trouble](https://github.com/folke/trouble.nvim)
+- Git
+  - [gitsigns](https://github.com/lewis6991/gitsigns.nvim)
+- 文件管理
+  - [tree](https://github.com/kyazdani42/nvim-tree.lua)
+  - [project](https://github.com/ahmedkhalf/project.nvim)
+- 文件查找
+  - [telescope](https://github.com/nvim-telescope/telescope.nvim)
+- UI
+  - [bufferline](https://github.com/akinsho/bufferline.nvim)
+  - [indentline](https://github.com/lukas-reineke/indent-blankline.nvim)
+  - [alpha](https://github.com/goolord/alpha-nvim)
+- 键位操作
+  - [whichkey](https://github.com/folke/which-key.nvim)
+- Markdown
+  - [markdown-preview](https://github.com/iamcco/markdown-preview.nvim)
