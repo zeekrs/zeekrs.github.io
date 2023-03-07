@@ -45,13 +45,25 @@ comments = false
 
 - 名词
 
-  > 名词都可以做主语  
+  > 名词都可以做主语
+
   > 名词就是世间万物的名称
 
-- 人称代词/指示代词
+  ```
+  Lisa is a dancer
+  China is beautiful
+  the man is strong
+  ```
+
+- 人称代词(主格)/指示代词
 
   > 代词就是为了避免重复而代替名词的词语  
   > 代替人的代词就叫人称代词(有些人称代词也可以代指事物)
+
+  ```
+  She is beautiful
+  I am  a programer
+  ```
 
 - 数词
 
@@ -77,8 +89,16 @@ comments = false
 
 1. 简单谓语
    > 由`实际动词/短语动词`构成
+   ```
+   I bathe every day (简单动词)
+   I get up at six (短语动词)
+   ```
 2. 复合谓语
    > 复合谓语就是由简单谓语再加上其他词语,共同作谓语的情况
+   ```
+   系动词 + 表语
+   系动词 = be (is,are,am,was,were...)
+   ```
 
 ##### 表语
 
@@ -87,6 +107,12 @@ comments = false
 > 表语其实属于谓语的范畴,但是不能说标语就是谓语 因为"系动词+表语"才是谓语  
 > 说明主语是什么或者怎么样的词语就是表语,也可以说是说明主语的情况或者说明主语状态的词语  
 > 英语中 `名词 形容词 介词短语 名词所有格 动词不定式 动名词 代词 数词 分词 副词 句子`都可以做表语
+
+```
+   I am handsome (形容词作为表语)
+   I am a programer (名词作为表语)
+   She is in Beijing (介词短语作为表语)
+```
 
 ##### 宾语
 
@@ -97,20 +123,121 @@ comments = false
 1. 能做主语的词语都可以作宾语
 2. 人称代词的宾格作宾语
 
+```
+I like Lisa (人名)
+I like China (地名)
+I like the girl (普通名词)
+I like them (人称代词宾格)
+I like swimming (动名词或短语)
+I like to study (动词不定式或短语)
+
+```
+
 ##### 宾补
 
 > 定义: 补充说明宾语, 使其意思更完整  
 > 能做宾补的词语有`形容词 名词 数词 动词 不定式 动名词 副词 分词 介词短语 句子等`
+
+```
+I make her happy (形容词)
+
+```
 
 ##### 状语
 
 > 定义: 修饰谓语, 说明谓语的情况 状语只跟谓语有关  
 > 状语氛围很多种, 有 `时间状语 地点状语 方式状语 原因状语 目的状语 等`
 
+```
+I learn English in Beijing (地点状语)
+I learn English here (地点状语)
+I am happy at home (地点状语)
+```
+
 ##### 定语
 
 > 定义: 修饰或限定名词的词语,偶尔修饰代词
 
+1. 形容词性物主代词作前置定语
+
+```
+my book
+```
+
+2. 形容词作前置定语
+
+```
+good books
+```
+
+3. 名词所有格
+
+```
+Zeekrs's book
+```
+
+4. 数词作前置定语
+
+```
+six books
+```
+
+5. 名词作前置定语
+
+```
+English book
+```
+
+6. 量词作前置定语
+
+```
+a cup of coffee
+```
+
+7. 指示代词作前置定语
+
+```
+this book
+```
+
+后置定语由 `介词短语 名词所有格 动名词短语 动词不定式短语 句子` 构成
+
 ##### 同位语
 
 > 定义: 跟前面的词语指代同一个人或事物
+
+```
+Zeekrs, the good man , is a programer
+```
+
+##### 五个基本句型
+
+1. 主语 + 谓语(不及物动词) + 状语(不表示动作)
+
+```
+I work here
+```
+
+2. 主语 + be(系动词) + 表语 + 状语(表示状态)
+
+```
+I am happy every day
+```
+
+3. 主语 + 谓语(及物动词) + 宾语 + 状语
+
+```
+I learn English in Beijing
+```
+
+4. 主语 + 谓语(及物动词里面的双宾动词) + 双宾语 + 状语(表示动作)
+
+```
+I gave him a book yesterday
+```
+
+5. 主语 + 谓语(少数特定的及物动词) + 宾语 + 宾补 + 状语(表示动作)
+
+```
+I make her happy every day
+```
