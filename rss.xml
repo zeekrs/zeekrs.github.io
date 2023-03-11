@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>zeekrs&#x27; blog</title>
+        <link>https://blog.zeekrs.dev</link>
+        <description>A simple blog theme focused on writing powered by Bulma and Zola</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://blog.zeekrs.dev/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>从0开始学英语</title>
+            <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+            <link>https://blog.zeekrs.dev/posts/english/</link>
+            <guid>https://blog.zeekrs.dev/posts/english/</guid>
+            <description>&lt;h2 id=&quot;&quot;&gt;&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本笔记记录一些 English 的学习过程
+基础章节来自 B 站的视频教程 &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1ja4y1e7KV&quot;&gt;《真正的零基础英语入门学习课程》&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;ru-men-ke-cheng&quot;&gt;入门课程&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;1-ju-zi-cheng-fen-yu-ji-ben-ju-xing&quot;&gt;1. 句子成分与基本句型&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;zao-ju-xu-yao-liang-ge-diao-ji&quot;&gt;造句需要两个调剂&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;一个句子由几个部分构成&lt;&#x2F;li&gt;
+&lt;li&gt;这些构成句子的各个部分的顺序或者位置&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;ying-yu-de-ju-zi-cheng-fen-zong-gong-you-ba-ge&quot;&gt;英语的句子成分总共有八个&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主语&lt;&#x2F;li&gt;
+&lt;li&gt;谓语&lt;&#x2F;li&gt;
+&lt;li&gt;宾语&lt;&#x2F;li&gt;
+&lt;li&gt;表语&lt;&#x2F;li&gt;
+&lt;li&gt;补语&lt;&#x2F;li&gt;
+&lt;li&gt;定语&lt;&#x2F;li&gt;
+&lt;li&gt;状语&lt;&#x2F;li&gt;
+&lt;li&gt;同位语 (不太重要)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;zhu-yu&quot;&gt;主语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 主语是一个句子叙述的主体&lt;br &#x2F;&gt;
+一句话主要叙述的对象或者这句话主要讲的内容&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;一般来说, 能够充当主语的词语有: &lt;code&gt;名词 代词 数词 动词不定式 动名词 句子 其他&lt;&#x2F;code&gt;&lt;br &#x2F;&gt;
+其他一律不可以做主语, 比如: &lt;code&gt;谓语动词 形式次 借此 副词&lt;&#x2F;code&gt; 等都不可以做主语&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;名词&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;名词都可以做主语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;名词就是世间万物的名称&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;Lisa is a dancer
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;China is beautiful
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;the man is strong
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;人称代词(主格)&#x2F;指示代词&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;代词就是为了避免重复而代替名词的词语&lt;br &#x2F;&gt;
+代替人的代词就叫人称代词(有些人称代词也可以代指事物)&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;She is beautiful
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I am  a programer
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;数词&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;基数词 序数词&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;动词不定式或者短语&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;动名词或者动名词短语&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;句子&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;其他&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;wei-yu&quot;&gt;谓语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 说明主语的动作或状态&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;英文的谓语是分两种, 一种是动作性的谓语 另一种是状态行动谓语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;动作戏谓语就是由&lt;code&gt;动词&lt;&#x2F;code&gt;构成的
+&lt;blockquote&gt;
+&lt;p&gt;表示动作或者心理行为的词语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;状态性谓语就是由&lt;code&gt;系表结构&lt;&#x2F;code&gt;构成的&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;简单谓语
+&lt;blockquote&gt;
+&lt;p&gt;由&lt;code&gt;实际动词&#x2F;短语动词&lt;&#x2F;code&gt;构成&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I bathe every day (简单动词)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I get up at six (短语动词)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;复合谓语
+&lt;blockquote&gt;
+&lt;p&gt;复合谓语就是由简单谓语再加上其他词语,共同作谓语的情况&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;系动词 + 表语
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;系动词 = be (is,are,am,was,were...)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h5 id=&quot;biao-yu&quot;&gt;表语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 跟系动词构成状态性谓语-系表结构&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;表语其实属于谓语的范畴,但是不能说标语就是谓语 因为&amp;quot;系动词+表语&amp;quot;才是谓语&lt;br &#x2F;&gt;
+说明主语是什么或者怎么样的词语就是表语,也可以说是说明主语的情况或者说明主语状态的词语&lt;br &#x2F;&gt;
+英语中 &lt;code&gt;名词 形容词 介词短语 名词所有格 动词不定式 动名词 代词 数词 分词 副词 句子&lt;&#x2F;code&gt;都可以做表语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;   I am handsome (形容词作为表语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;   I am a programer (名词作为表语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;   She is in Beijing (介词短语作为表语)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h5 id=&quot;bin-yu&quot;&gt;宾语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 动作的对象或承受着-及物动词后的词语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;及物动词后面一定要跟一个动作的对象或者承受着,也就是宾语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;能做主语的词语都可以作宾语&lt;&#x2F;li&gt;
+&lt;li&gt;人称代词的宾格作宾语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like Lisa (人名)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like China (地名)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like the girl (普通名词)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like them (人称代词宾格)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like swimming (动名词或短语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like to study (动词不定式或短语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h5 id=&quot;bin-bu&quot;&gt;宾补&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 补充说明宾语, 使其意思更完整&lt;br &#x2F;&gt;
+能做宾补的词语有&lt;code&gt;形容词 名词 数词 动词 不定式 动名词 副词 分词 介词短语 句子等&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I make her happy (形容词)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h5 id=&quot;zhuang-yu&quot;&gt;状语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 修饰谓语, 说明谓语的情况 状语只跟谓语有关&lt;br &#x2F;&gt;
+状语氛围很多种, 有 &lt;code&gt;时间状语 地点状语 方式状语 原因状语 目的状语 等&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I learn English in Beijing (地点状语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I learn English here (地点状语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I am happy at home (地点状语)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h5 id=&quot;ding-yu&quot;&gt;定语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 修饰或限定名词的词语,偶尔修饰代词&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;形容词性物主代词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;my book
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;形容词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;good books
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;名词所有格&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;Zeekrs&amp;#39;s book
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;数词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;six books
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;名词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;English book
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;量词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;a cup of coffee
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;7&quot;&gt;
+&lt;li&gt;指示代词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;this book
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;后置定语由 &lt;code&gt;介词短语 名词所有格 动名词短语 动词不定式短语 句子&lt;&#x2F;code&gt; 构成&lt;&#x2F;p&gt;
+&lt;h5 id=&quot;tong-wei-yu&quot;&gt;同位语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 跟前面的词语指代同一个人或事物&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;Zeekrs, the good man , is a programer
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h5 id=&quot;wu-ge-ji-ben-ju-xing&quot;&gt;五个基本句型&lt;&#x2F;h5&gt;
+&lt;ol&gt;
+&lt;li&gt;主语 + 谓语(不及物动词) + 状语(不表示动作)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I work here
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;主语 + be(系动词) + 表语 + 状语(表示状态)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I am happy every day
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;主语 + 谓语(及物动词) + 宾语 + 状语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I learn English in Beijing
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;主语 + 谓语(及物动词里面的双宾动词) + 双宾语 + 状语(表示动作)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I gave him a book yesterday
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;主语 + 谓语(少数特定的及物动词) + 宾语 + 宾补 + 状语(表示动作)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I make her happy every day
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;2-ming-ci&quot;&gt;2. 名词&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义:名词就是世间万物的名称&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;名词的分类: 普通名词和专有名词&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h5 id=&quot;zhuan-you-ming-ci&quot;&gt;专有名词&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;人名&lt;&#x2F;li&gt;
+&lt;li&gt;地名&lt;&#x2F;li&gt;
+&lt;li&gt;专有机构&lt;&#x2F;li&gt;
+&lt;li&gt;组织&lt;&#x2F;li&gt;
+&lt;li&gt;术语&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;pu-tong-ming-ci&quot;&gt;普通名词&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;可数名词
+&lt;blockquote&gt;
+&lt;p&gt;可数名词就是那些肉眼能分清数量的名词&lt;br &#x2F;&gt;
+每个可数名词都有两种格式, 一个是单数的格式,另一个是复数的格式.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;可数名词变复数规则:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;大部分可数名词变复数,在名词末尾加-s&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;book -&amp;gt; books
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;cat -&amp;gt; cats
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;如果名词以 s、x、z、ch、sh 结尾，则在名词末尾加-es&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;bus -&amp;gt; buses
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;box -&amp;gt; boxes
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;buzz -&amp;gt; buzzes
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;church -&amp;gt; churches
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;brush brushes
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;如果名词以辅音字母+y 结尾，则将 y 改为 i，再加-es&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;city -&amp;gt; cities
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;fly flies
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;如果名词以元音字母+y 结尾，则直接加-s&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;toy -&amp;gt; toys
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;如果名词以-f 或-fe 结尾，则将-f 或-fe 改为-ves&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;wife -&amp;gt; wives
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;leaf -&amp;gt; leaves
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;有一些名词的复数形式不遵循上述规则，需要单独记忆&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;child -&amp;gt; children
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;man -&amp;gt; men
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;woman -&amp;gt; women
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;tooth -&amp;gt; teeth
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;有些名词既可以用单数形式表示，也可以用复数形式表示&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;deer
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;sheep
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;fish
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;不可数名词&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不可数名词刚好相反,就是肉眼分不清数量的名词
+不可数名词没有复数格式, 只有单数的格式
+量词, 修饰不可数名词&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;量词的构成方式有两种:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;a &#x2F; an &#x2F; one + 可数名词单数 + of&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;a cup of coffee 
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;a bucket of water
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;数词 + 可数名词的复数 + of&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;使用量词要注意:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;不是所有的可数名词,都能构成量词, 只有那种有内部空间或容器或者一些符合逻辑的可数名词才可以构成量词.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;bag basket trunk (有内部空间)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;cup glass bottle (容器)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;bar piece loaf (符合逻辑)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;大部分量词都是修饰不可数名词,要注意逻辑问题&lt;&#x2F;li&gt;
+&lt;li&gt;英文的量词一定不能修饰可数名词的单数.&lt;&#x2F;li&gt;
+&lt;li&gt;英文的量词虽然可以修饰可数名词的复数,但是不常见.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;名词的作用&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;作主语&lt;&#x2F;li&gt;
+&lt;li&gt;作表语&lt;&#x2F;li&gt;
+&lt;li&gt;作宾语 及物动词 + 宾语&lt;&#x2F;li&gt;
+&lt;li&gt;作宾补&lt;&#x2F;li&gt;
+&lt;li&gt;作定语 (复合名词)&lt;&#x2F;li&gt;
+&lt;li&gt;作介词宾语&lt;&#x2F;li&gt;
+&lt;li&gt;名词作同位语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</description>
+        </item>
+        <item>
+            <title>Y2023</title>
+            <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+            <link>https://blog.zeekrs.dev/times/y2023/</link>
+            <guid>https://blog.zeekrs.dev/times/y2023/</guid>
+            <description>&lt;h4 id=&quot;3-yue-3-ri&quot;&gt;3 月 3 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第一天&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;3-yue-5-ri&quot;&gt;3 月 5 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第二天
+顺便看了下 metabase&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;3-yue-6-ri&quot;&gt;3 月 6 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第三天&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;3-yue-7-ri&quot;&gt;3 月 7 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第四天&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;3-yue-8-ri&quot;&gt;3 月 8 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第五天&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;3-yue-11-ri&quot;&gt;3 月 11 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第六天&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Vim学习笔记</title>
+            <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+            <link>https://blog.zeekrs.dev/posts/vim/</link>
+            <guid>https://blog.zeekrs.dev/posts/vim/</guid>
+            <description>&lt;blockquote&gt;
+&lt;p&gt;本笔记记录一些 vim 的学习过程 主要用于熟练掌握 vim
+基础章节来自慕课网的视频教程 &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.imooc.com&#x2F;learn&#x2F;1129&quot;&gt;《玩转 Vim 从放弃到爱不释手》&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;basic&quot;&gt;初识 Vim 想说爱你不容易&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;1-vim-de-ji-chu-cao-zuo&quot;&gt;1. vim 的基础操作&lt;&#x2F;h4&gt;
+&lt;p&gt;普通模式进入插入模式的基本操作&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;操作符&lt;&#x2F;th&gt;&lt;th&gt;助记符&lt;&#x2F;th&gt;&lt;th&gt;作用&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;i&lt;&#x2F;td&gt;&lt;td&gt;insert&lt;&#x2F;td&gt;&lt;td&gt;从光标前插入&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;I&lt;&#x2F;td&gt;&lt;td&gt;insert&lt;&#x2F;td&gt;&lt;td&gt;从行前插入&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;a&lt;&#x2F;td&gt;&lt;td&gt;append&lt;&#x2F;td&gt;&lt;td&gt;从光标后插入&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;A&lt;&#x2F;td&gt;&lt;td&gt;append&lt;&#x2F;td&gt;&lt;td&gt;从行后出入&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;o&lt;&#x2F;td&gt;&lt;td&gt;open a line&lt;&#x2F;td&gt;&lt;td&gt;从光标下方插入新的一行&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;O&lt;&#x2F;td&gt;&lt;td&gt;open a line&lt;&#x2F;td&gt;&lt;td&gt;从光标上方插入新的一行&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;从插入模式回到普通模式 Esc&lt;&#x2F;p&gt;
+&lt;p&gt;普通模式下 按 &lt;code&gt;:&lt;&#x2F;code&gt; 进入命令模式&lt;&#x2F;p&gt;
+&lt;p&gt;命令模式下的基本操作&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;操作符&lt;&#x2F;th&gt;&lt;th&gt;助记符&lt;&#x2F;th&gt;&lt;th&gt;作用&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;w&lt;&#x2F;td&gt;&lt;td&gt;write&lt;&#x2F;td&gt;&lt;td&gt;保存&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;q&lt;&#x2F;td&gt;&lt;td&gt;quit&lt;&#x2F;td&gt;&lt;td&gt;退出&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;wq&lt;&#x2F;td&gt;&lt;td&gt;save and quit&lt;&#x2F;td&gt;&lt;td&gt;保存并退出&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;2-vim-wei-shi-yao-ni-you-zhe-yao-duo-mo-shi&quot;&gt;2. Vim,为什么你有这么多模式&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;普通模式&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;普通模式下可以进行各种移动呵命令操作&lt;&#x2F;li&gt;
+&lt;li&gt;大部分情况下是制作浏览而不是在编辑&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;插入模式&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;插入模式和大部分文编编辑器一致 主要用于编辑文本&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;命令模式&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;命令模式下 可以执行 vim 命令&lt;&#x2F;li&gt;
+&lt;li&gt;比如 :sp(split) 竖分屏 :vs(vertical split) 横分屏&lt;&#x2F;li&gt;
+&lt;li&gt;使用:% s&#x2F;foo&#x2F;bar&#x2F;g 进行全局替换&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;可视化模式&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;普通模式下使用 v 进入 visual 选择&lt;&#x2F;li&gt;
+&lt;li&gt;使用 V 选择行&lt;&#x2F;li&gt;
+&lt;li&gt;使用 ctrl + v 进行块选择&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;3-vim-cha-ru-mo-shi-xiao-ji-qiao&quot;&gt;3. Vim,插入模式小技巧&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;ctrl + h 删除上一个字符&lt;&#x2F;li&gt;
+&lt;li&gt;ctrl + w 删除上一个单词&lt;&#x2F;li&gt;
+&lt;li&gt;ctrl + u 删除当前行&lt;&#x2F;li&gt;
+&lt;li&gt;ctrl + c 代替 Esc 回到普通模式&lt;&#x2F;li&gt;
+&lt;li&gt;gi 从普通模式到上一次插入的位置&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;4-vim-kuai-su-yi-dong-da-fa&quot;&gt;4. Vim,快速移动大法&lt;&#x2F;h4&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;操作符&lt;&#x2F;th&gt;&lt;th&gt;助记符&lt;&#x2F;th&gt;&lt;th&gt;作用&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;h&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;左移&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;j&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;下移&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;k&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;上移&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;l&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;右移&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;w&lt;&#x2F;td&gt;&lt;td&gt;word&lt;&#x2F;td&gt;&lt;td&gt;移动到下一个单词开头&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;W&lt;&#x2F;td&gt;&lt;td&gt;word&lt;&#x2F;td&gt;&lt;td&gt;移动到下一个单词开头(已空白符分隔)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;e&lt;&#x2F;td&gt;&lt;td&gt;end word&lt;&#x2F;td&gt;&lt;td&gt;移动到下一个单词的结尾&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;E&lt;&#x2F;td&gt;&lt;td&gt;end word&lt;&#x2F;td&gt;&lt;td&gt;移动到下一个单词的结尾(已空包符分隔)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;b&lt;&#x2F;td&gt;&lt;td&gt;back word&lt;&#x2F;td&gt;&lt;td&gt;移动到上一个单词的开头&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;B&lt;&#x2F;td&gt;&lt;td&gt;back word&lt;&#x2F;td&gt;&lt;td&gt;移动到上一个单词的开头(已空白符分隔)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;f{char}&lt;&#x2F;td&gt;&lt;td&gt;find&lt;&#x2F;td&gt;&lt;td&gt;移动到{char}字符 (;搜索下一个 ,搜索上一个)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;F{char}&lt;&#x2F;td&gt;&lt;td&gt;find&lt;&#x2F;td&gt;&lt;td&gt;反向搜索,同上&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;t{char}&lt;&#x2F;td&gt;&lt;td&gt;until&lt;&#x2F;td&gt;&lt;td&gt;移动到{char}字符的前一个字符(;搜索下一个 ,搜索上一个)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;T{char}&lt;&#x2F;td&gt;&lt;td&gt;until&lt;&#x2F;td&gt;&lt;td&gt;方向搜索,同上&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;0&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;移动到行首&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;^&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;移动到行首(不包含空白字符)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;$&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;移动到行尾&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;g_&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;移动到行尾(不包含空白字符)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;{}&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;在段落间进行移动&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;gg&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;移动到文件开头&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;G&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;移动到文件结尾&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;ctrl + o&lt;&#x2F;td&gt;&lt;td&gt;old&lt;&#x2F;td&gt;&lt;td&gt;移动到上一次光标的位置&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;ctrl + u&lt;&#x2F;td&gt;&lt;td&gt;upward&lt;&#x2F;td&gt;&lt;td&gt;向上翻页&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;ctrl + f&lt;&#x2F;td&gt;&lt;td&gt;forward&lt;&#x2F;td&gt;&lt;td&gt;向下翻页&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;zz&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;把当前光标放到屏幕中间&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;5-vim-kuai-su-zeng-shan-gai-cha&quot;&gt;5. Vim,快速增删改查&lt;&#x2F;h4&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;操作符&lt;&#x2F;th&gt;&lt;th&gt;助记符&lt;&#x2F;th&gt;&lt;th&gt;作用&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;x&lt;&#x2F;td&gt;&lt;td&gt;cut&lt;&#x2F;td&gt;&lt;td&gt;删除一个字符&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;d&lt;&#x2F;td&gt;&lt;td&gt;delete&lt;&#x2F;td&gt;&lt;td&gt;删除(&lt;code&gt;dw&lt;&#x2F;code&gt; &lt;code&gt;diw&lt;&#x2F;code&gt; &lt;code&gt;dd&lt;&#x2F;code&gt; &lt;code&gt;dt{char}&lt;&#x2F;code&gt; &lt;code&gt;d$&lt;&#x2F;code&gt; &lt;code&gt;d0&lt;&#x2F;code&gt;)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;r&lt;&#x2F;td&gt;&lt;td&gt;replace&lt;&#x2F;td&gt;&lt;td&gt;替换当前光标下的字符&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;R&lt;&#x2F;td&gt;&lt;td&gt;replace&lt;&#x2F;td&gt;&lt;td&gt;替换当前光标下的字符,直到退出输入模式&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;s&lt;&#x2F;td&gt;&lt;td&gt;substitute&lt;&#x2F;td&gt;&lt;td&gt;删除当前字符并进入插入模式&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;S&lt;&#x2F;td&gt;&lt;td&gt;substitute&lt;&#x2F;td&gt;&lt;td&gt;删除一整行并进入插入模式&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;c&lt;&#x2F;td&gt;&lt;td&gt;change&lt;&#x2F;td&gt;&lt;td&gt;类似 d 的使用方式,删除后进入插入模式&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&#x2F;&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;搜索输入的字符(&lt;code&gt;n&lt;&#x2F;code&gt;移动到搜索的上一个,&lt;code&gt;N&lt;&#x2F;code&gt;移动到搜索的下一个)&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;#&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;匹配光标上的单词,移动到上一个&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;*&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;匹配光标上的单词,移动到下一个&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;6-vim-ru-he-sou-suo-ti-huan&quot;&gt;6. Vim,如何搜索替换&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;code&gt; :[range] s[substitute]&#x2F;{pattern}&#x2F;{string}&#x2F;[flags]&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;code&gt;range&lt;&#x2F;code&gt; 表示范围 比如:10,20 表示 10-20 行 %表示全部&lt;br &#x2F;&gt;
+&lt;code&gt;pattern&lt;&#x2F;code&gt; 表示要替换的模式 正则表达式&lt;br &#x2F;&gt;
+&lt;code&gt;string&lt;&#x2F;code&gt; 表示替换后的文本&lt;br &#x2F;&gt;
+&lt;code&gt;flags&lt;&#x2F;code&gt;表示执行的方式 &lt;code&gt;g&lt;&#x2F;code&gt;表示全局范围内执行 &lt;code&gt;c&lt;&#x2F;code&gt;表示确认 可以确认或者这拒绝 &lt;code&gt;n&lt;&#x2F;code&gt;报告匹配的次数而不进行替换&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;7-vim-duo-wen-jian-cao-zuo&quot;&gt;7. Vim,多文件操作&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Buffer&lt;br &#x2F;&gt;
+打开的文件在内存中的缓冲区&lt;&#x2F;li&gt;
+&lt;li&gt;Window&lt;br &#x2F;&gt;
+Buffer 可视化的分割区域&lt;&#x2F;li&gt;
+&lt;li&gt;Tab&lt;br &#x2F;&gt;
+可以组织窗口为一个工作区&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Buffer 的操作&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;操作符&lt;&#x2F;th&gt;&lt;th&gt;助记符&lt;&#x2F;th&gt;&lt;th&gt;作用&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;:ls&lt;&#x2F;td&gt;&lt;td&gt;list show&lt;&#x2F;td&gt;&lt;td&gt;列出当前缓冲区列表&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;:b{n}&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;跳转到第 n 个缓冲区&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;:bpre&lt;&#x2F;td&gt;&lt;td&gt;previous&lt;&#x2F;td&gt;&lt;td&gt;跳转到上一个缓冲区&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;:bnext&lt;&#x2F;td&gt;&lt;td&gt;next&lt;&#x2F;td&gt;&lt;td&gt;跳转到下一个缓冲区&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;:bfirst&lt;&#x2F;td&gt;&lt;td&gt;first&lt;&#x2F;td&gt;&lt;td&gt;跳转到第一个缓冲区&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;:blast&lt;&#x2F;td&gt;&lt;td&gt;last&lt;&#x2F;td&gt;&lt;td&gt;跳转到最后一个缓冲区&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;:b {buffer_name}&lt;&#x2F;td&gt;&lt;td&gt;-&lt;&#x2F;td&gt;&lt;td&gt;跳转到指定名称的缓冲区&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Window 的操作&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;操作符&lt;&#x2F;th&gt;&lt;th&gt;助记符&lt;&#x2F;th&gt;&lt;th&gt;作用&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;&amp;lt;Ctrl+w&amp;gt;s :sp&lt;&#x2F;td&gt;&lt;td&gt;window split&lt;&#x2F;td&gt;&lt;td&gt;水平分割&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;lt;Ctrl+w&amp;gt;v :vs&lt;&#x2F;td&gt;&lt;td&gt;window vertical split&lt;&#x2F;td&gt;&lt;td&gt;垂直分割&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;lt;Ctrl+w&amp;gt;w&lt;&#x2F;td&gt;&lt;td&gt;window&lt;&#x2F;td&gt;&lt;td&gt;在窗口间循环切换&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;lt;Ctrl+w&amp;gt;h&lt;&#x2F;td&gt;&lt;td&gt;window&lt;&#x2F;td&gt;&lt;td&gt;切换到左边的窗口&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;lt;Ctrl+w&amp;gt;j&lt;&#x2F;td&gt;&lt;td&gt;window&lt;&#x2F;td&gt;&lt;td&gt;切换到下边的窗口&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;lt;Ctrl+w&amp;gt;k&lt;&#x2F;td&gt;&lt;td&gt;window&lt;&#x2F;td&gt;&lt;td&gt;切换到上边的窗口&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;lt;Ctrl+w&amp;gt;l&lt;&#x2F;td&gt;&lt;td&gt;window&lt;&#x2F;td&gt;&lt;td&gt;切换到右边的窗口&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;lt;Ctrl+w&amp;gt;H&lt;&#x2F;td&gt;&lt;td&gt;window&lt;&#x2F;td&gt;&lt;td&gt;将窗口移动到左边&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;lt;Ctrl+w&amp;gt;J&lt;&#x2F;td&gt;&lt;td&gt;window&lt;&#x2F;td&gt;&lt;td&gt;将窗口移动到下边&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;lt;Ctrl+w&amp;gt;K&lt;&#x2F;td&gt;&lt;td&gt;window&lt;&#x2F;td&gt;&lt;td&gt;将窗口移动到上边&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&amp;lt;Ctrl+w&amp;gt;L&lt;&#x2F;td&gt;&lt;td&gt;window&lt;&#x2F;td&gt;&lt;td&gt;将窗口移动到右边&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tab 的操作(不常用)&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;操作符&lt;&#x2F;th&gt;&lt;th&gt;作用&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;:tabe[dit] {filename}&lt;&#x2F;td&gt;&lt;td&gt;在新标签页中打开 {filename}&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;&lt;C-w&gt;T&lt;&#x2F;td&gt;&lt;td&gt;把当前窗口移动到一个新的标签页&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;:tabcc[lose]&lt;&#x2F;td&gt;&lt;td&gt;关闭当前标签页及其中的所有窗口&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;:tabo[nly]&lt;&#x2F;td&gt;&lt;td&gt;只保留活动标签页,关闭所有其他标签页&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;:tabn[ext] gt&lt;&#x2F;td&gt;&lt;td&gt;切换到上一个标签&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;:tabp[revious] gT&lt;&#x2F;td&gt;&lt;td&gt;切换到下一个标签&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;8-shi-yao-shi-vim-de-text-object&quot;&gt;8. 什么是 Vim 的 text object&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Vim 里文本也有对象的概念, 比如一个单词、一短句子、一个段落.&lt;&#x2F;li&gt;
+&lt;li&gt;通过操作文本对象来修改要比只操作单个子字符高效很多.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;code&gt;[number]&amp;lt;command&amp;gt;[text object]&lt;&#x2F;code&gt;&lt;br &#x2F;&gt;
+&lt;code&gt;number&lt;&#x2F;code&gt; 表示次数&lt;br &#x2F;&gt;
+&lt;code&gt;command&lt;&#x2F;code&gt; 表示命令 &lt;code&gt;d&lt;&#x2F;code&gt;(elet) &lt;code&gt;c&lt;&#x2F;code&gt;(hange) &lt;code&gt;y&lt;&#x2F;code&gt;(ank)&lt;br &#x2F;&gt;
+&lt;code&gt;text object&lt;&#x2F;code&gt; 表示要操作的文本对象 比如 &lt;code&gt;w&lt;&#x2F;code&gt;(ord) &lt;code&gt;s&lt;&#x2F;code&gt;(entence) &lt;code&gt;p&lt;&#x2F;code&gt;(aragraph)&lt;&#x2F;p&gt;
+&lt;p&gt;example: &lt;code&gt;diw&lt;&#x2F;code&gt; &lt;code&gt;daw&lt;&#x2F;code&gt; &lt;code&gt;ciw&lt;&#x2F;code&gt; &lt;code&gt;caw&lt;&#x2F;code&gt; &lt;code&gt;viw&lt;&#x2F;code&gt; &lt;code&gt;vaw&lt;&#x2F;code&gt; &lt;code&gt;yiw&lt;&#x2F;code&gt; &lt;code&gt;yaw&lt;&#x2F;code&gt;&lt;br &#x2F;&gt;
+&lt;code&gt;i&lt;&#x2F;code&gt; 表示 inner&lt;br &#x2F;&gt;
+&lt;code&gt;a&lt;&#x2F;code&gt; 表示 around&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;9-vim-fu-zhi-nian-tie-yu-ji-cun-qi-de-shi-yong&quot;&gt;9. Vim 复制粘贴于寄存器的使用&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;复制粘贴的使用&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Normal 模式
+&lt;ul&gt;
+&lt;li&gt;普通模式下复制粘贴分别使用 y(ank) 呵 p(ut) , 剪切 d(elet)&lt;&#x2F;li&gt;
+&lt;li&gt;配合 v(isual)命令选中所要复制的文本&lt;&#x2F;li&gt;
+&lt;li&gt;配合文本对象使用 如 yiw 复制一个单词 yy 复制一行&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Insert 模式
+&lt;ul&gt;
+&lt;li&gt;和其他为本编辑器差不多 使用 cmd+v 进行粘贴&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;什么是 Vim 的寄存器&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vim 里操作的是寄存器而不是系统剪切板&lt;&#x2F;li&gt;
+&lt;li&gt;默认使用 dd 删除或 y 复制的内容都放到了&lt;code&gt;无名寄存器&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;通过&lt;code&gt;&amp;quot;{register}&lt;&#x2F;code&gt;前缀可以指定寄存器,不指定默认使用无名寄存器&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;a-z&lt;&#x2F;code&gt; 都可以作为寄存器使用 &lt;code&gt;&amp;quot;ayaw&lt;&#x2F;code&gt; 表示将复制的单词存入寄存器&lt;code&gt;a&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;可使用 &lt;code&gt;:reg {register}&lt;&#x2F;code&gt; 查看寄存器内容&lt;&#x2F;li&gt;
+&lt;li&gt;可使用 &lt;code&gt;&amp;quot;ap&lt;&#x2F;code&gt; 粘贴存在寄存器&lt;code&gt;a&lt;&#x2F;code&gt;中的内容&lt;&#x2F;li&gt;
+&lt;li&gt;复制专用寄存暖气 &lt;code&gt;&amp;quot;0&lt;&#x2F;code&gt; 系统剪切板 &lt;code&gt;&amp;quot;+&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;10-qiang-da-de-vim-hong-macro&quot;&gt;10. 强大的 Vim 宏(macro)&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;什么是 Vim 宏&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;宏可以看成是一系列命令的集合&lt;&#x2F;li&gt;
+&lt;li&gt;我们可以用宏&lt;strong&gt;录制&lt;&#x2F;strong&gt;一系列操作,然后用于&lt;strong&gt;回放&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;宏可以把一系列命令用在多行文本上&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;如何使用宏&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用&lt;code&gt;q&lt;&#x2F;code&gt;来录制,同时也是 q 结束录制&lt;&#x2F;li&gt;
+&lt;li&gt;使用&lt;code&gt;q{register}&lt;&#x2F;code&gt;选择要保存的寄存器,把录制的命令保存在其中&lt;&#x2F;li&gt;
+&lt;li&gt;使用&lt;code&gt;@{register}&lt;&#x2F;code&gt;回放寄存器中保存的一系列命令&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;11-vim-bu-quan-da-fa&quot;&gt;11. Vim 补全大法&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;常见的三种补全类型
+&lt;ul&gt;
+&lt;li&gt;使用 ctrl + n 和 ctrl + p 补全单词&lt;&#x2F;li&gt;
+&lt;li&gt;使用 ctrl + x 和 ctrl + f 补全文件名&lt;&#x2F;li&gt;
+&lt;li&gt;使用 ctrl + x 和 ctrl + o 补全代码 需要开启文件类型检查 安装插件&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h4 id=&quot;12-gei-vim-huan-ge-pei-se&quot;&gt;12. 给 Vim 换个配色&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;使用 &lt;code&gt;:colorscheme&lt;&#x2F;code&gt; 显示当前的主题配色&lt;&#x2F;li&gt;
+&lt;li&gt;用 &lt;code&gt;:colorscheme &amp;lt;C+d&amp;gt;&lt;&#x2F;code&gt; 可以显示所有的配色&lt;&#x2F;li&gt;
+&lt;li&gt;用 &lt;code&gt;:colorscheme {scheme_name}&lt;&#x2F;code&gt; 更换主题&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;config&quot;&gt;编写 Vim 配置,我的 Vim 我做主&lt;&#x2F;h2&gt;
+&lt;p&gt;vim 配置文件 &lt;code&gt;~&#x2F;.vimrc&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;常用设置 如 &lt;code&gt;:set nu&lt;&#x2F;code&gt; &lt;code&gt;colorscheme onedark&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;常用的 vim 映射 如 &lt;code&gt;noremap &amp;lt;leader&amp;gt; w :w&amp;lt;cr&amp;gt;&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;自定义的 vimscript 函数 和 插件配置&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Vim 中的映射比较复杂 源于 vim 有多种模式&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;设置一下&lt;code&gt;leader&lt;&#x2F;code&gt;键 &lt;code&gt;let mapleader = &amp;quot;&amp;lt;Space&amp;gt;&amp;quot;&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;nnoremap&lt;&#x2F;code&gt; 普通模式下的键位映射&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;inoremap&lt;&#x2F;code&gt; insert 模式下的映射&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;com!&lt;&#x2F;code&gt; 命令模式下执行的操作&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;使用&lt;code&gt;:h option-list&lt;&#x2F;code&gt; 查找所有的 vim 常用设置选项&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;vim-ying-she-mi-ren-yan&quot;&gt;Vim 映射迷人眼&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;基本映射
+基本映射指的是 normal 模式下的映射&lt;br &#x2F;&gt;
+使用&lt;code&gt;map&lt;&#x2F;code&gt;就可以实现映射 比如 &lt;code&gt;:map &amp;lt;C-d&amp;gt; dd&lt;&#x2F;code&gt;&lt;br &#x2F;&gt;
+使用&lt;code&gt;unmap&lt;&#x2F;code&gt;取消映射比如 &lt;code&gt;:unmap &amp;lt;C-d&amp;gt;&lt;&#x2F;code&gt;&lt;br &#x2F;&gt;
+&lt;code&gt;nmap&#x2F;vmap&#x2F;imap&lt;&#x2F;code&gt;定义映射只在 &lt;code&gt;normal&#x2F;visual&#x2F;insert&lt;&#x2F;code&gt; 模式下有效&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;*map&lt;&#x2F;code&gt;系列命令有递归的风险&lt;&#x2F;li&gt;
+&lt;li&gt;Vim 提供了非递归映射,这些命令不会的递归解释&lt;br &#x2F;&gt;
+使用 &lt;code&gt;*map&lt;&#x2F;code&gt;的对应版本 &lt;code&gt;nnoremap&#x2F;vnoremap&#x2F;inoremap&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;任何情况下 都应该使用非递归映射&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;xue-xi-he-shi-yong-pei-zhi&quot;&gt;学习和使用配置&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;了解常见常见的配置选项&lt;&#x2F;li&gt;
+&lt;li&gt;学习和使用 Vim 映射&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;cong-ling-pei-zhi-zi-ji-de-neovim&quot;&gt;从零配置自己的 NeoVim&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;个人&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;zeekrs&#x2F;dotfiles&quot;&gt;Dotfiles&lt;&#x2F;a&gt;已上传至 Github&lt;&#x2F;li&gt;
+&lt;li&gt;使用&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.chezmoi.io&quot;&gt;chezmoi&lt;&#x2F;a&gt;管理&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;plugin&quot;&gt;常 Vim 安装插件,竟如此简单&lt;&#x2F;h2&gt;
+&lt;p&gt;参考&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.kancloud.cn&#x2F;kancloud&#x2F;learn-vimscript-the-hard-way&#x2F;49321&quot;&gt;《笨方法学 VimScript》&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;wsdjeg&#x2F;vim-galore-zh_cn&quot;&gt;Vim 从入门到精通&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;yianwillis.github.io&#x2F;vimcdoc&#x2F;doc&#x2F;quickref.html&quot;&gt;Vim 帮助文档(中文)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;awesome-neovim &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rockerBOO&#x2F;awesome-neovim&quot;&gt;awesome-neovim&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;插件推荐&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;插件管理
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;wbthomason&#x2F;packer.nvim&quot;&gt;packer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;主题
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;folke&#x2F;tokyonight.nvim&quot;&gt;tokynight&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;EdenEast&#x2F;nightfox.nvim&quot;&gt;nightfox&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;自动补全 代码高亮格式化代码与诊断
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;neovim&#x2F;nvim-lspconfig&quot;&gt;lsp-config&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nvim-treesitter&#x2F;nvim-treesitter&quot;&gt;tree-sitter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;hrsh7th&#x2F;nvim-cmp&quot;&gt;cmp&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;windwp&#x2F;nvim-autopairs&quot;&gt;autopairs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;windwp&#x2F;nvim-ts-autotag&quot;&gt;aototag&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;p00f&#x2F;nvim-ts-rainbow&quot;&gt;rainbow&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jose-elias-alvarez&#x2F;null-ls.nvim&quot;&gt;null-ls&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;numToStr&#x2F;Comment.nvim&quot;&gt;comment&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;JoosepAlviste&#x2F;nvim-ts-context-commentstring&quot;&gt;comment-string&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;folke&#x2F;trouble.nvim&quot;&gt;trouble&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Git
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lewis6991&#x2F;gitsigns.nvim&quot;&gt;gitsigns&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;文件管理
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;kyazdani42&#x2F;nvim-tree.lua&quot;&gt;tree&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ahmedkhalf&#x2F;project.nvim&quot;&gt;project&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;文件查找
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nvim-telescope&#x2F;telescope.nvim&quot;&gt;telescope&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;UI
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;akinsho&#x2F;bufferline.nvim&quot;&gt;bufferline&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lukas-reineke&#x2F;indent-blankline.nvim&quot;&gt;indentline&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;goolord&#x2F;alpha-nvim&quot;&gt;alpha&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;键位操作
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;folke&#x2F;which-key.nvim&quot;&gt;whichkey&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Markdown
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;iamcco&#x2F;markdown-preview.nvim&quot;&gt;markdown-preview&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+        </item>
+        <item>
+            <title>Hello World</title>
+            <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+            <link>https://blog.zeekrs.dev/posts/hello/</link>
+            <guid>https://blog.zeekrs.dev/posts/hello/</guid>
+            <description>&lt;p&gt;准备做博客有些年头了... 一直没有去落实&lt;&#x2F;p&gt;
+&lt;p&gt;花了一点时间用 &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&quot;&gt;zola&lt;&#x2F;a&gt; 搭建了一个简单的博客&lt;&#x2F;p&gt;
+&lt;p&gt;就从这篇日志开始吧&lt;&#x2F;p&gt;
+&lt;p&gt;坚持搞起来吧!!! 加油!!!!!!&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>zeekrs&#x27; blog - life</title>
+        <link>https://blog.zeekrs.dev</link>
+        <description>A simple blog theme focused on writing powered by Bulma and Zola</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://blog.zeekrs.dev/categories/life/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Y2023</title>
+            <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+            <link>https://blog.zeekrs.dev/times/y2023/</link>
+            <guid>https://blog.zeekrs.dev/times/y2023/</guid>
+            <description>&lt;h4 id=&quot;3-yue-3-ri&quot;&gt;3 月 3 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第一天&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;3-yue-5-ri&quot;&gt;3 月 5 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第二天
+顺便看了下 metabase&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;3-yue-6-ri&quot;&gt;3 月 6 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第三天&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;3-yue-7-ri&quot;&gt;3 月 7 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第四天&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;3-yue-8-ri&quot;&gt;3 月 8 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第五天&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;3-yue-11-ri&quot;&gt;3 月 11 日&lt;&#x2F;h4&gt;
+&lt;p&gt;English 每日打卡 第六天&lt;&#x2F;p&gt;
+</description>
+        </item>
+        <item>
+            <title>Hello World</title>
+            <pubDate>Fri, 18 Feb 2022 00:00:00 +0000</pubDate>
+            <link>https://blog.zeekrs.dev/posts/hello/</link>
+            <guid>https://blog.zeekrs.dev/posts/hello/</guid>
+            <description>&lt;p&gt;准备做博客有些年头了... 一直没有去落实&lt;&#x2F;p&gt;
+&lt;p&gt;花了一点时间用 &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.getzola.org&quot;&gt;zola&lt;&#x2F;a&gt; 搭建了一个简单的博客&lt;&#x2F;p&gt;
+&lt;p&gt;就从这篇日志开始吧&lt;&#x2F;p&gt;
+&lt;p&gt;坚持搞起来吧!!! 加油!!!!!!&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>

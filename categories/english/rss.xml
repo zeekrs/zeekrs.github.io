@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>zeekrs&#x27; blog - english</title>
+        <link>https://blog.zeekrs.dev</link>
+        <description>A simple blog theme focused on writing powered by Bulma and Zola</description>
+        <generator>Zola</generator>
+        <language>en</language>
+        <atom:link href="https://blog.zeekrs.dev/categories/english/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Mar 2023 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>从0开始学英语</title>
+            <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+            <link>https://blog.zeekrs.dev/posts/english/</link>
+            <guid>https://blog.zeekrs.dev/posts/english/</guid>
+            <description>&lt;h2 id=&quot;&quot;&gt;&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;本笔记记录一些 English 的学习过程
+基础章节来自 B 站的视频教程 &lt;a rel=&quot;noopener nofollow noreferrer&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;www.bilibili.com&#x2F;video&#x2F;BV1ja4y1e7KV&quot;&gt;《真正的零基础英语入门学习课程》&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;ru-men-ke-cheng&quot;&gt;入门课程&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;1-ju-zi-cheng-fen-yu-ji-ben-ju-xing&quot;&gt;1. 句子成分与基本句型&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;zao-ju-xu-yao-liang-ge-diao-ji&quot;&gt;造句需要两个调剂&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;一个句子由几个部分构成&lt;&#x2F;li&gt;
+&lt;li&gt;这些构成句子的各个部分的顺序或者位置&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;ying-yu-de-ju-zi-cheng-fen-zong-gong-you-ba-ge&quot;&gt;英语的句子成分总共有八个&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;主语&lt;&#x2F;li&gt;
+&lt;li&gt;谓语&lt;&#x2F;li&gt;
+&lt;li&gt;宾语&lt;&#x2F;li&gt;
+&lt;li&gt;表语&lt;&#x2F;li&gt;
+&lt;li&gt;补语&lt;&#x2F;li&gt;
+&lt;li&gt;定语&lt;&#x2F;li&gt;
+&lt;li&gt;状语&lt;&#x2F;li&gt;
+&lt;li&gt;同位语 (不太重要)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;zhu-yu&quot;&gt;主语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 主语是一个句子叙述的主体&lt;br &#x2F;&gt;
+一句话主要叙述的对象或者这句话主要讲的内容&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;一般来说, 能够充当主语的词语有: &lt;code&gt;名词 代词 数词 动词不定式 动名词 句子 其他&lt;&#x2F;code&gt;&lt;br &#x2F;&gt;
+其他一律不可以做主语, 比如: &lt;code&gt;谓语动词 形式次 借此 副词&lt;&#x2F;code&gt; 等都不可以做主语&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;名词&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;名词都可以做主语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;名词就是世间万物的名称&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;Lisa is a dancer
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;China is beautiful
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;the man is strong
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;人称代词(主格)&#x2F;指示代词&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;代词就是为了避免重复而代替名词的词语&lt;br &#x2F;&gt;
+代替人的代词就叫人称代词(有些人称代词也可以代指事物)&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;She is beautiful
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I am  a programer
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;数词&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;基数词 序数词&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;动词不定式或者短语&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;动名词或者动名词短语&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;句子&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;其他&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;wei-yu&quot;&gt;谓语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 说明主语的动作或状态&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;英文的谓语是分两种, 一种是动作性的谓语 另一种是状态行动谓语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;动作戏谓语就是由&lt;code&gt;动词&lt;&#x2F;code&gt;构成的
+&lt;blockquote&gt;
+&lt;p&gt;表示动作或者心理行为的词语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;状态性谓语就是由&lt;code&gt;系表结构&lt;&#x2F;code&gt;构成的&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;简单谓语
+&lt;blockquote&gt;
+&lt;p&gt;由&lt;code&gt;实际动词&#x2F;短语动词&lt;&#x2F;code&gt;构成&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I bathe every day (简单动词)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I get up at six (短语动词)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;复合谓语
+&lt;blockquote&gt;
+&lt;p&gt;复合谓语就是由简单谓语再加上其他词语,共同作谓语的情况&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;系动词 + 表语
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;系动词 = be (is,are,am,was,were...)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h5 id=&quot;biao-yu&quot;&gt;表语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 跟系动词构成状态性谓语-系表结构&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;表语其实属于谓语的范畴,但是不能说标语就是谓语 因为&amp;quot;系动词+表语&amp;quot;才是谓语&lt;br &#x2F;&gt;
+说明主语是什么或者怎么样的词语就是表语,也可以说是说明主语的情况或者说明主语状态的词语&lt;br &#x2F;&gt;
+英语中 &lt;code&gt;名词 形容词 介词短语 名词所有格 动词不定式 动名词 代词 数词 分词 副词 句子&lt;&#x2F;code&gt;都可以做表语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;   I am handsome (形容词作为表语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;   I am a programer (名词作为表语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;   She is in Beijing (介词短语作为表语)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h5 id=&quot;bin-yu&quot;&gt;宾语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 动作的对象或承受着-及物动词后的词语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;及物动词后面一定要跟一个动作的对象或者承受着,也就是宾语&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;能做主语的词语都可以作宾语&lt;&#x2F;li&gt;
+&lt;li&gt;人称代词的宾格作宾语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like Lisa (人名)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like China (地名)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like the girl (普通名词)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like them (人称代词宾格)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like swimming (动名词或短语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I like to study (动词不定式或短语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h5 id=&quot;bin-bu&quot;&gt;宾补&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 补充说明宾语, 使其意思更完整&lt;br &#x2F;&gt;
+能做宾补的词语有&lt;code&gt;形容词 名词 数词 动词 不定式 动名词 副词 分词 介词短语 句子等&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I make her happy (形容词)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h5 id=&quot;zhuang-yu&quot;&gt;状语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 修饰谓语, 说明谓语的情况 状语只跟谓语有关&lt;br &#x2F;&gt;
+状语氛围很多种, 有 &lt;code&gt;时间状语 地点状语 方式状语 原因状语 目的状语 等&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I learn English in Beijing (地点状语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I learn English here (地点状语)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I am happy at home (地点状语)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h5 id=&quot;ding-yu&quot;&gt;定语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 修饰或限定名词的词语,偶尔修饰代词&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;形容词性物主代词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;my book
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;形容词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;good books
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;名词所有格&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;Zeekrs&amp;#39;s book
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;数词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;six books
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;名词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;English book
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;量词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;a cup of coffee
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;7&quot;&gt;
+&lt;li&gt;指示代词作前置定语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;this book
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;后置定语由 &lt;code&gt;介词短语 名词所有格 动名词短语 动词不定式短语 句子&lt;&#x2F;code&gt; 构成&lt;&#x2F;p&gt;
+&lt;h5 id=&quot;tong-wei-yu&quot;&gt;同位语&lt;&#x2F;h5&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义: 跟前面的词语指代同一个人或事物&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;Zeekrs, the good man , is a programer
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h5 id=&quot;wu-ge-ji-ben-ju-xing&quot;&gt;五个基本句型&lt;&#x2F;h5&gt;
+&lt;ol&gt;
+&lt;li&gt;主语 + 谓语(不及物动词) + 状语(不表示动作)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I work here
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;主语 + be(系动词) + 表语 + 状语(表示状态)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I am happy every day
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;主语 + 谓语(及物动词) + 宾语 + 状语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I learn English in Beijing
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;主语 + 谓语(及物动词里面的双宾动词) + 双宾语 + 状语(表示动作)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I gave him a book yesterday
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;主语 + 谓语(少数特定的及物动词) + 宾语 + 宾补 + 状语(表示动作)&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;I make her happy every day
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h3 id=&quot;2-ming-ci&quot;&gt;2. 名词&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;定义:名词就是世间万物的名称&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;名词的分类: 普通名词和专有名词&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h5 id=&quot;zhuan-you-ming-ci&quot;&gt;专有名词&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;人名&lt;&#x2F;li&gt;
+&lt;li&gt;地名&lt;&#x2F;li&gt;
+&lt;li&gt;专有机构&lt;&#x2F;li&gt;
+&lt;li&gt;组织&lt;&#x2F;li&gt;
+&lt;li&gt;术语&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h5 id=&quot;pu-tong-ming-ci&quot;&gt;普通名词&lt;&#x2F;h5&gt;
+&lt;ul&gt;
+&lt;li&gt;可数名词
+&lt;blockquote&gt;
+&lt;p&gt;可数名词就是那些肉眼能分清数量的名词&lt;br &#x2F;&gt;
+每个可数名词都有两种格式, 一个是单数的格式,另一个是复数的格式.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;可数名词变复数规则:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;大部分可数名词变复数,在名词末尾加-s&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;book -&amp;gt; books
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;cat -&amp;gt; cats
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;如果名词以 s、x、z、ch、sh 结尾，则在名词末尾加-es&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;bus -&amp;gt; buses
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;box -&amp;gt; boxes
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;buzz -&amp;gt; buzzes
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;church -&amp;gt; churches
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;brush brushes
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;如果名词以辅音字母+y 结尾，则将 y 改为 i，再加-es&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;city -&amp;gt; cities
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;fly flies
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;如果名词以元音字母+y 结尾，则直接加-s&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;toy -&amp;gt; toys
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;如果名词以-f 或-fe 结尾，则将-f 或-fe 改为-ves&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;wife -&amp;gt; wives
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;leaf -&amp;gt; leaves
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;6&quot;&gt;
+&lt;li&gt;有一些名词的复数形式不遵循上述规则，需要单独记忆&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;child -&amp;gt; children
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;man -&amp;gt; men
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;woman -&amp;gt; women
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;tooth -&amp;gt; teeth
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;有些名词既可以用单数形式表示，也可以用复数形式表示&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;deer
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;sheep
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;fish
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;不可数名词&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不可数名词刚好相反,就是肉眼分不清数量的名词
+不可数名词没有复数格式, 只有单数的格式
+量词, 修饰不可数名词&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;量词的构成方式有两种:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;a &#x2F; an &#x2F; one + 可数名词单数 + of&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;a cup of coffee 
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;a bucket of water
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;数词 + 可数名词的复数 + of&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;使用量词要注意:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;不是所有的可数名词,都能构成量词, 只有那种有内部空间或容器或者一些符合逻辑的可数名词才可以构成量词.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;pre style=&quot;background-color:#2b303b;color:#6c7079;&quot;&gt;&lt;code&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;bag basket trunk (有内部空间)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;cup glass bottle (容器)
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#abb2bf;&quot;&gt;bar piece loaf (符合逻辑)
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;大部分量词都是修饰不可数名词,要注意逻辑问题&lt;&#x2F;li&gt;
+&lt;li&gt;英文的量词一定不能修饰可数名词的单数.&lt;&#x2F;li&gt;
+&lt;li&gt;英文的量词虽然可以修饰可数名词的复数,但是不常见.&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;名词的作用&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ol&gt;
+&lt;li&gt;作主语&lt;&#x2F;li&gt;
+&lt;li&gt;作表语&lt;&#x2F;li&gt;
+&lt;li&gt;作宾语 及物动词 + 宾语&lt;&#x2F;li&gt;
+&lt;li&gt;作宾补&lt;&#x2F;li&gt;
+&lt;li&gt;作定语 (复合名词)&lt;&#x2F;li&gt;
+&lt;li&gt;作介词宾语&lt;&#x2F;li&gt;
+&lt;li&gt;名词作同位语&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+</description>
+        </item>
+    </channel>
+</rss>

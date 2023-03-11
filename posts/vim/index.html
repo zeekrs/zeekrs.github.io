@@ -1,0 +1,823 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <meta content="#ffffff" name="theme-color" />
+  <meta content="#da532c" name="msapplication-TileColor" />
+
+  
+  <link href='&#x2F;icons&#x2F;site.webmanifest' rel="manifest" />
+  
+  
+  <link color="#5bbad5" href='&#x2F;icons&#x2F;safari-pinned-tab.svg' rel="mask-icon" />
+  
+  
+  <link href='&#x2F;icons&#x2F;favicon-16x16.png' rel="icon" sizes="16x16" type="image/png" />
+  
+  
+  <link href='&#x2F;icons&#x2F;favicon-32x32.png' rel="icon" sizes="32x32" type="image/png" />
+  
+  
+  <link href='&#x2F;icons&#x2F;apple-touch-icon.png' rel="apple-touch-icon" sizes="180x180" />
+  
+
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.css" integrity="sha384-+rY0QD+LRnTOquDMzGa9lXU6jIwdiQuwCJQ2cdcW0qeP/0UbjQCZlXnRsUMA+9pH" crossorigin="anonymous">
+  
+
+  
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.1/css/academicons.min.css" integrity="sha384-FIue+PI4SsI9XfHCz8dBLg33b0c1fMJgNU3X//L26FYbGnlSEfWmNT7zgWc2N9b6" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css" integrity="sha384-IJLmUY0f1ePPX6uSCJ9Bxik64/meJmjSYD7dHaJqTXXEBE4y+Oe9P2KBZa/z7p0Q" crossorigin="anonymous">
+  <link href="https://blog.zeekrs.dev/deep-thought.css" rel="stylesheet" />
+  
+  
+
+  <title>
+    
+zeekrs&#x27; blog | Vim学习笔记
+
+  </title>
+
+  
+  
+  
+
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css" integrity="sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs" crossorigin="anonymous">
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js" integrity="sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx" crossorigin="anonymous"></script>
+
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/mathtex-script-type.min.js" integrity="sha384-jiBVvJ8NGGj5n7kJaiWwWp9AjC+Yh8rhZY3GtAX8yU28azcLgoRo4oukO87g7zDT" crossorigin="anonymous"></script>
+  
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"></script>
+  
+  
+</head>
+
+<body class="has-background-white">
+  <nav aria-label="section navigation" class="navbar is-light" role="navigation">
+    <div class="container">
+      <div class="navbar-brand">
+        <a class="navbar-item is-size-5 has-text-weight-bold" href="https:&#x2F;&#x2F;blog.zeekrs.dev">zeekrs&#x27; blog</a>
+        <a aria-expanded="false" aria-label="menu" class="navbar-burger burger" data-target="navMenu" role="button">
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
+      </div>
+      <div class="navbar-menu" id="navMenu">
+        <div class="navbar-end has-text-centered">
+          
+          
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;blog.zeekrs.dev&#x2F;">
+            Home
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;blog.zeekrs.dev&#x2F;posts">
+            Posts
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;blog.zeekrs.dev&#x2F;times">
+            Times
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;blog.zeekrs.dev&#x2F;tags">
+            Tags
+          </a>
+          
+          <a class="navbar-item has-text-weight-semibold" href="https:&#x2F;&#x2F;blog.zeekrs.dev&#x2F;categories">
+            Categories
+          </a>
+          
+          
+          
+          <a class="navbar-item" id="nav-search" title="Search" data-target="#search-modal">
+            <span class="icon">
+              <i class="fas fa-search"></i>
+            </span>
+          </a>
+          <a class="navbar-item" id="dark-mode" title="Switch to dark theme">
+            <span class="icon">
+              <i class="fas fa-adjust"></i>
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  
+  
+
+  
+<section class="section">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-8 is-offset-2">
+        <article class="box">
+          <h1 class="title">
+            Vim学习笔记
+          </h1>
+          <p class="subtitle"></p>
+          <div class="columns is-multiline is-gapless">
+            <div class="column is-8">
+              
+<span class="icon-text has-text-grey">
+  <span class="icon">
+    <i class="fas fa-user"></i>
+  </span>
+  <span>zeekrs published on</span>
+  <span class="icon">
+    <i class="far fa-calendar-alt"></i>
+  </span>
+  <span><time datetime="2022-02-20">February 20, 2022</time></span>
+</span>
+
+            </div>
+            <div class="column is-4 has-text-right-desktop">
+              
+<span class="icon-text has-text-grey">
+  <span class="icon">
+    <i class="far fa-clock"></i>
+  </span>
+  <span>13 min,</span>
+  <span class="icon">
+    <i class="fas fa-pencil-alt"></i>
+  </span>
+  <span>2485 words</span>
+</span>
+
+            </div>
+            <div class="column">
+              
+              
+<p>
+  Categories:
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://blog.zeekrs.dev/categories/editor/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-cube"></i>
+      </span>
+      <span>editor</span>
+    </span>
+  </a>
+  
+</p>
+
+              
+            </div>
+            <div class="column has-text-right-desktop">
+              
+              
+<p>
+  Tags:
+  
+  <a class="has-text-info-dark has-text-weight-semibold" href="https://blog.zeekrs.dev/tags/vim/">
+    <span class="icon-text">
+      <span class="icon">
+        <i class="fas fa-tag"></i>
+      </span>
+      <span>vim</span>
+    </span>
+  </a>
+  
+</p>
+
+              
+            </div>
+          </div>
+          <div class="content mt-2">
+            <blockquote>
+<p>本笔记记录一些 vim 的学习过程 主要用于熟练掌握 vim
+基础章节来自慕课网的视频教程 <a rel="noopener nofollow noreferrer" target="_blank" href="https://www.imooc.com/learn/1129">《玩转 Vim 从放弃到爱不释手》</a></p>
+</blockquote>
+<h2 id="basic">初识 Vim 想说爱你不容易</h2>
+<h4 id="1-vim-de-ji-chu-cao-zuo">1. vim 的基础操作</h4>
+<p>普通模式进入插入模式的基本操作</p>
+<table><thead><tr><th>操作符</th><th>助记符</th><th>作用</th></tr></thead><tbody>
+<tr><td>i</td><td>insert</td><td>从光标前插入</td></tr>
+<tr><td>I</td><td>insert</td><td>从行前插入</td></tr>
+<tr><td>a</td><td>append</td><td>从光标后插入</td></tr>
+<tr><td>A</td><td>append</td><td>从行后出入</td></tr>
+<tr><td>o</td><td>open a line</td><td>从光标下方插入新的一行</td></tr>
+<tr><td>O</td><td>open a line</td><td>从光标上方插入新的一行</td></tr>
+</tbody></table>
+<p>从插入模式回到普通模式 Esc</p>
+<p>普通模式下 按 <code>:</code> 进入命令模式</p>
+<p>命令模式下的基本操作</p>
+<table><thead><tr><th>操作符</th><th>助记符</th><th>作用</th></tr></thead><tbody>
+<tr><td>w</td><td>write</td><td>保存</td></tr>
+<tr><td>q</td><td>quit</td><td>退出</td></tr>
+<tr><td>wq</td><td>save and quit</td><td>保存并退出</td></tr>
+</tbody></table>
+<hr />
+<h4 id="2-vim-wei-shi-yao-ni-you-zhe-yao-duo-mo-shi">2. Vim,为什么你有这么多模式</h4>
+<ul>
+<li>
+<p>普通模式</p>
+<ul>
+<li>普通模式下可以进行各种移动呵命令操作</li>
+<li>大部分情况下是制作浏览而不是在编辑</li>
+</ul>
+</li>
+<li>
+<p>插入模式</p>
+<ul>
+<li>插入模式和大部分文编编辑器一致 主要用于编辑文本</li>
+</ul>
+</li>
+<li>
+<p>命令模式</p>
+<ul>
+<li>命令模式下 可以执行 vim 命令</li>
+<li>比如 :sp(split) 竖分屏 :vs(vertical split) 横分屏</li>
+<li>使用:% s/foo/bar/g 进行全局替换</li>
+</ul>
+</li>
+<li>
+<p>可视化模式</p>
+<ul>
+<li>普通模式下使用 v 进入 visual 选择</li>
+<li>使用 V 选择行</li>
+<li>使用 ctrl + v 进行块选择</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h4 id="3-vim-cha-ru-mo-shi-xiao-ji-qiao">3. Vim,插入模式小技巧</h4>
+<ul>
+<li>ctrl + h 删除上一个字符</li>
+<li>ctrl + w 删除上一个单词</li>
+<li>ctrl + u 删除当前行</li>
+<li>ctrl + c 代替 Esc 回到普通模式</li>
+<li>gi 从普通模式到上一次插入的位置</li>
+</ul>
+<hr />
+<h4 id="4-vim-kuai-su-yi-dong-da-fa">4. Vim,快速移动大法</h4>
+<table><thead><tr><th>操作符</th><th>助记符</th><th>作用</th></tr></thead><tbody>
+<tr><td>h</td><td>-</td><td>左移</td></tr>
+<tr><td>j</td><td>-</td><td>下移</td></tr>
+<tr><td>k</td><td>-</td><td>上移</td></tr>
+<tr><td>l</td><td>-</td><td>右移</td></tr>
+<tr><td>w</td><td>word</td><td>移动到下一个单词开头</td></tr>
+<tr><td>W</td><td>word</td><td>移动到下一个单词开头(已空白符分隔)</td></tr>
+<tr><td>e</td><td>end word</td><td>移动到下一个单词的结尾</td></tr>
+<tr><td>E</td><td>end word</td><td>移动到下一个单词的结尾(已空包符分隔)</td></tr>
+<tr><td>b</td><td>back word</td><td>移动到上一个单词的开头</td></tr>
+<tr><td>B</td><td>back word</td><td>移动到上一个单词的开头(已空白符分隔)</td></tr>
+<tr><td>f{char}</td><td>find</td><td>移动到{char}字符 (;搜索下一个 ,搜索上一个)</td></tr>
+<tr><td>F{char}</td><td>find</td><td>反向搜索,同上</td></tr>
+<tr><td>t{char}</td><td>until</td><td>移动到{char}字符的前一个字符(;搜索下一个 ,搜索上一个)</td></tr>
+<tr><td>T{char}</td><td>until</td><td>方向搜索,同上</td></tr>
+<tr><td>0</td><td>-</td><td>移动到行首</td></tr>
+<tr><td>^</td><td>-</td><td>移动到行首(不包含空白字符)</td></tr>
+<tr><td>$</td><td>-</td><td>移动到行尾</td></tr>
+<tr><td>g_</td><td>-</td><td>移动到行尾(不包含空白字符)</td></tr>
+<tr><td>{}</td><td>-</td><td>在段落间进行移动</td></tr>
+<tr><td>gg</td><td>-</td><td>移动到文件开头</td></tr>
+<tr><td>G</td><td>-</td><td>移动到文件结尾</td></tr>
+<tr><td>ctrl + o</td><td>old</td><td>移动到上一次光标的位置</td></tr>
+<tr><td>ctrl + u</td><td>upward</td><td>向上翻页</td></tr>
+<tr><td>ctrl + f</td><td>forward</td><td>向下翻页</td></tr>
+<tr><td>zz</td><td>-</td><td>把当前光标放到屏幕中间</td></tr>
+</tbody></table>
+<hr />
+<h4 id="5-vim-kuai-su-zeng-shan-gai-cha">5. Vim,快速增删改查</h4>
+<table><thead><tr><th>操作符</th><th>助记符</th><th>作用</th></tr></thead><tbody>
+<tr><td>x</td><td>cut</td><td>删除一个字符</td></tr>
+<tr><td>d</td><td>delete</td><td>删除(<code>dw</code> <code>diw</code> <code>dd</code> <code>dt{char}</code> <code>d$</code> <code>d0</code>)</td></tr>
+<tr><td>r</td><td>replace</td><td>替换当前光标下的字符</td></tr>
+<tr><td>R</td><td>replace</td><td>替换当前光标下的字符,直到退出输入模式</td></tr>
+<tr><td>s</td><td>substitute</td><td>删除当前字符并进入插入模式</td></tr>
+<tr><td>S</td><td>substitute</td><td>删除一整行并进入插入模式</td></tr>
+<tr><td>c</td><td>change</td><td>类似 d 的使用方式,删除后进入插入模式</td></tr>
+<tr><td>/</td><td>-</td><td>搜索输入的字符(<code>n</code>移动到搜索的上一个,<code>N</code>移动到搜索的下一个)</td></tr>
+<tr><td>#</td><td>-</td><td>匹配光标上的单词,移动到上一个</td></tr>
+<tr><td>*</td><td>-</td><td>匹配光标上的单词,移动到下一个</td></tr>
+</tbody></table>
+<hr />
+<h4 id="6-vim-ru-he-sou-suo-ti-huan">6. Vim,如何搜索替换</h4>
+<p><code> :[range] s[substitute]/{pattern}/{string}/[flags]</code></p>
+<p><code>range</code> 表示范围 比如:10,20 表示 10-20 行 %表示全部<br />
+<code>pattern</code> 表示要替换的模式 正则表达式<br />
+<code>string</code> 表示替换后的文本<br />
+<code>flags</code>表示执行的方式 <code>g</code>表示全局范围内执行 <code>c</code>表示确认 可以确认或者这拒绝 <code>n</code>报告匹配的次数而不进行替换</p>
+<hr />
+<h4 id="7-vim-duo-wen-jian-cao-zuo">7. Vim,多文件操作</h4>
+<ul>
+<li>Buffer<br />
+打开的文件在内存中的缓冲区</li>
+<li>Window<br />
+Buffer 可视化的分割区域</li>
+<li>Tab<br />
+可以组织窗口为一个工作区</li>
+</ul>
+<blockquote>
+<p>Buffer 的操作</p>
+</blockquote>
+<table><thead><tr><th>操作符</th><th>助记符</th><th>作用</th></tr></thead><tbody>
+<tr><td>:ls</td><td>list show</td><td>列出当前缓冲区列表</td></tr>
+<tr><td>:b{n}</td><td>-</td><td>跳转到第 n 个缓冲区</td></tr>
+<tr><td>:bpre</td><td>previous</td><td>跳转到上一个缓冲区</td></tr>
+<tr><td>:bnext</td><td>next</td><td>跳转到下一个缓冲区</td></tr>
+<tr><td>:bfirst</td><td>first</td><td>跳转到第一个缓冲区</td></tr>
+<tr><td>:blast</td><td>last</td><td>跳转到最后一个缓冲区</td></tr>
+<tr><td>:b {buffer_name}</td><td>-</td><td>跳转到指定名称的缓冲区</td></tr>
+</tbody></table>
+<blockquote>
+<p>Window 的操作</p>
+</blockquote>
+<table><thead><tr><th>操作符</th><th>助记符</th><th>作用</th></tr></thead><tbody>
+<tr><td>&lt;Ctrl+w&gt;s :sp</td><td>window split</td><td>水平分割</td></tr>
+<tr><td>&lt;Ctrl+w&gt;v :vs</td><td>window vertical split</td><td>垂直分割</td></tr>
+<tr><td>&lt;Ctrl+w&gt;w</td><td>window</td><td>在窗口间循环切换</td></tr>
+<tr><td>&lt;Ctrl+w&gt;h</td><td>window</td><td>切换到左边的窗口</td></tr>
+<tr><td>&lt;Ctrl+w&gt;j</td><td>window</td><td>切换到下边的窗口</td></tr>
+<tr><td>&lt;Ctrl+w&gt;k</td><td>window</td><td>切换到上边的窗口</td></tr>
+<tr><td>&lt;Ctrl+w&gt;l</td><td>window</td><td>切换到右边的窗口</td></tr>
+<tr><td>&lt;Ctrl+w&gt;H</td><td>window</td><td>将窗口移动到左边</td></tr>
+<tr><td>&lt;Ctrl+w&gt;J</td><td>window</td><td>将窗口移动到下边</td></tr>
+<tr><td>&lt;Ctrl+w&gt;K</td><td>window</td><td>将窗口移动到上边</td></tr>
+<tr><td>&lt;Ctrl+w&gt;L</td><td>window</td><td>将窗口移动到右边</td></tr>
+</tbody></table>
+<blockquote>
+<p>Tab 的操作(不常用)</p>
+</blockquote>
+<table><thead><tr><th>操作符</th><th>作用</th></tr></thead><tbody>
+<tr><td>:tabe[dit] {filename}</td><td>在新标签页中打开 {filename}</td></tr>
+<tr><td><C-w>T</td><td>把当前窗口移动到一个新的标签页</td></tr>
+<tr><td>:tabcc[lose]</td><td>关闭当前标签页及其中的所有窗口</td></tr>
+<tr><td>:tabo[nly]</td><td>只保留活动标签页,关闭所有其他标签页</td></tr>
+<tr><td>:tabn[ext] gt</td><td>切换到上一个标签</td></tr>
+<tr><td>:tabp[revious] gT</td><td>切换到下一个标签</td></tr>
+</tbody></table>
+<hr />
+<h4 id="8-shi-yao-shi-vim-de-text-object">8. 什么是 Vim 的 text object</h4>
+<ul>
+<li>Vim 里文本也有对象的概念, 比如一个单词、一短句子、一个段落.</li>
+<li>通过操作文本对象来修改要比只操作单个子字符高效很多.</li>
+</ul>
+<p><code>[number]&lt;command&gt;[text object]</code><br />
+<code>number</code> 表示次数<br />
+<code>command</code> 表示命令 <code>d</code>(elet) <code>c</code>(hange) <code>y</code>(ank)<br />
+<code>text object</code> 表示要操作的文本对象 比如 <code>w</code>(ord) <code>s</code>(entence) <code>p</code>(aragraph)</p>
+<p>example: <code>diw</code> <code>daw</code> <code>ciw</code> <code>caw</code> <code>viw</code> <code>vaw</code> <code>yiw</code> <code>yaw</code><br />
+<code>i</code> 表示 inner<br />
+<code>a</code> 表示 around</p>
+<hr />
+<h4 id="9-vim-fu-zhi-nian-tie-yu-ji-cun-qi-de-shi-yong">9. Vim 复制粘贴于寄存器的使用</h4>
+<ul>
+<li>
+<p>复制粘贴的使用</p>
+<ul>
+<li>Normal 模式
+<ul>
+<li>普通模式下复制粘贴分别使用 y(ank) 呵 p(ut) , 剪切 d(elet)</li>
+<li>配合 v(isual)命令选中所要复制的文本</li>
+<li>配合文本对象使用 如 yiw 复制一个单词 yy 复制一行</li>
+</ul>
+</li>
+<li>Insert 模式
+<ul>
+<li>和其他为本编辑器差不多 使用 cmd+v 进行粘贴</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>什么是 Vim 的寄存器</p>
+<ul>
+<li>Vim 里操作的是寄存器而不是系统剪切板</li>
+<li>默认使用 dd 删除或 y 复制的内容都放到了<code>无名寄存器</code></li>
+<li>通过<code>&quot;{register}</code>前缀可以指定寄存器,不指定默认使用无名寄存器</li>
+<li><code>a-z</code> 都可以作为寄存器使用 <code>&quot;ayaw</code> 表示将复制的单词存入寄存器<code>a</code></li>
+<li>可使用 <code>:reg {register}</code> 查看寄存器内容</li>
+<li>可使用 <code>&quot;ap</code> 粘贴存在寄存器<code>a</code>中的内容</li>
+<li>复制专用寄存暖气 <code>&quot;0</code> 系统剪切板 <code>&quot;+</code></li>
+</ul>
+</li>
+</ul>
+<hr />
+<h4 id="10-qiang-da-de-vim-hong-macro">10. 强大的 Vim 宏(macro)</h4>
+<ul>
+<li>
+<p>什么是 Vim 宏</p>
+<ul>
+<li>宏可以看成是一系列命令的集合</li>
+<li>我们可以用宏<strong>录制</strong>一系列操作,然后用于<strong>回放</strong></li>
+<li>宏可以把一系列命令用在多行文本上</li>
+</ul>
+</li>
+<li>
+<p>如何使用宏</p>
+<ul>
+<li>使用<code>q</code>来录制,同时也是 q 结束录制</li>
+<li>使用<code>q{register}</code>选择要保存的寄存器,把录制的命令保存在其中</li>
+<li>使用<code>@{register}</code>回放寄存器中保存的一系列命令</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h4 id="11-vim-bu-quan-da-fa">11. Vim 补全大法</h4>
+<ul>
+<li>常见的三种补全类型
+<ul>
+<li>使用 ctrl + n 和 ctrl + p 补全单词</li>
+<li>使用 ctrl + x 和 ctrl + f 补全文件名</li>
+<li>使用 ctrl + x 和 ctrl + o 补全代码 需要开启文件类型检查 安装插件</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h4 id="12-gei-vim-huan-ge-pei-se">12. 给 Vim 换个配色</h4>
+<ul>
+<li>使用 <code>:colorscheme</code> 显示当前的主题配色</li>
+<li>用 <code>:colorscheme &lt;C+d&gt;</code> 可以显示所有的配色</li>
+<li>用 <code>:colorscheme {scheme_name}</code> 更换主题</li>
+</ul>
+<hr />
+<hr />
+<h2 id="config">编写 Vim 配置,我的 Vim 我做主</h2>
+<p>vim 配置文件 <code>~/.vimrc</code></p>
+<ul>
+<li>常用设置 如 <code>:set nu</code> <code>colorscheme onedark</code></li>
+<li>常用的 vim 映射 如 <code>noremap &lt;leader&gt; w :w&lt;cr&gt;</code></li>
+<li>自定义的 vimscript 函数 和 插件配置</li>
+</ul>
+<p>Vim 中的映射比较复杂 源于 vim 有多种模式</p>
+<ul>
+<li>设置一下<code>leader</code>键 <code>let mapleader = &quot;&lt;Space&gt;&quot;</code></li>
+<li></li>
+<li><code>nnoremap</code> 普通模式下的键位映射</li>
+<li><code>inoremap</code> insert 模式下的映射</li>
+<li><code>com!</code> 命令模式下执行的操作</li>
+</ul>
+<p>使用<code>:h option-list</code> 查找所有的 vim 常用设置选项</p>
+<h4 id="vim-ying-she-mi-ren-yan">Vim 映射迷人眼</h4>
+<ul>
+<li>基本映射
+基本映射指的是 normal 模式下的映射<br />
+使用<code>map</code>就可以实现映射 比如 <code>:map &lt;C-d&gt; dd</code><br />
+使用<code>unmap</code>取消映射比如 <code>:unmap &lt;C-d&gt;</code><br />
+<code>nmap/vmap/imap</code>定义映射只在 <code>normal/visual/insert</code> 模式下有效</li>
+<li><code>*map</code>系列命令有递归的风险</li>
+<li>Vim 提供了非递归映射,这些命令不会的递归解释<br />
+使用 <code>*map</code>的对应版本 <code>nnoremap/vnoremap/inoremap</code></li>
+<li>任何情况下 都应该使用非递归映射</li>
+</ul>
+<h4 id="xue-xi-he-shi-yong-pei-zhi">学习和使用配置</h4>
+<ul>
+<li>了解常见常见的配置选项</li>
+<li>学习和使用 Vim 映射</li>
+</ul>
+<h4 id="cong-ling-pei-zhi-zi-ji-de-neovim">从零配置自己的 NeoVim</h4>
+<ul>
+<li>个人<a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/zeekrs/dotfiles">Dotfiles</a>已上传至 Github</li>
+<li>使用<a rel="noopener nofollow noreferrer" target="_blank" href="https://www.chezmoi.io">chezmoi</a>管理</li>
+</ul>
+<h2 id="plugin">常 Vim 安装插件,竟如此简单</h2>
+<p>参考</p>
+<ul>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://www.kancloud.cn/kancloud/learn-vimscript-the-hard-way/49321">《笨方法学 VimScript》</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/wsdjeg/vim-galore-zh_cn">Vim 从入门到精通</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://yianwillis.github.io/vimcdoc/doc/quickref.html">Vim 帮助文档(中文)</a></li>
+<li>awesome-neovim <a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/rockerBOO/awesome-neovim">awesome-neovim</a></li>
+</ul>
+<p>插件推荐</p>
+<ul>
+<li>插件管理
+<ul>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/wbthomason/packer.nvim">packer</a></li>
+</ul>
+</li>
+<li>主题
+<ul>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/folke/tokyonight.nvim">tokynight</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/EdenEast/nightfox.nvim">nightfox</a></li>
+</ul>
+</li>
+<li>自动补全 代码高亮格式化代码与诊断
+<ul>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/neovim/nvim-lspconfig">lsp-config</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/nvim-treesitter/nvim-treesitter">tree-sitter</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/hrsh7th/nvim-cmp">cmp</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/windwp/nvim-autopairs">autopairs</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/windwp/nvim-ts-autotag">aototag</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/p00f/nvim-ts-rainbow">rainbow</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/jose-elias-alvarez/null-ls.nvim">null-ls</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/numToStr/Comment.nvim">comment</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/JoosepAlviste/nvim-ts-context-commentstring">comment-string</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/folke/trouble.nvim">trouble</a></li>
+</ul>
+</li>
+<li>Git
+<ul>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/lewis6991/gitsigns.nvim">gitsigns</a></li>
+</ul>
+</li>
+<li>文件管理
+<ul>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/kyazdani42/nvim-tree.lua">tree</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/ahmedkhalf/project.nvim">project</a></li>
+</ul>
+</li>
+<li>文件查找
+<ul>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/nvim-telescope/telescope.nvim">telescope</a></li>
+</ul>
+</li>
+<li>UI
+<ul>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/akinsho/bufferline.nvim">bufferline</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/lukas-reineke/indent-blankline.nvim">indentline</a></li>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/goolord/alpha-nvim">alpha</a></li>
+</ul>
+</li>
+<li>键位操作
+<ul>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/folke/which-key.nvim">whichkey</a></li>
+</ul>
+</li>
+<li>Markdown
+<ul>
+<li><a rel="noopener nofollow noreferrer" target="_blank" href="https://github.com/iamcco/markdown-preview.nvim">markdown-preview</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </article>
+      </div>
+      
+      <div class="column is-2 is-hidden-mobile">
+        <aside class="menu" style="position: sticky; top: 48px">
+          <p class="heading has-text-weight-bold">Contents</p>
+          <ul class="menu-list">
+            
+            <li>
+              <a id="link-basic" class="toc is-size-7 is-active"
+                href="https://blog.zeekrs.dev/posts/vim/#basic">
+                初识 Vim 想说爱你不容易
+              </a>
+              
+              <ul>
+                
+                <li>
+                  <a id="link-1-vim-de-ji-chu-cao-zuo" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#1-vim-de-ji-chu-cao-zuo">
+                    1. vim 的基础操作
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-2-vim-wei-shi-yao-ni-you-zhe-yao-duo-mo-shi" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#2-vim-wei-shi-yao-ni-you-zhe-yao-duo-mo-shi">
+                    2. Vim,为什么你有这么多模式
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-3-vim-cha-ru-mo-shi-xiao-ji-qiao" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#3-vim-cha-ru-mo-shi-xiao-ji-qiao">
+                    3. Vim,插入模式小技巧
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-4-vim-kuai-su-yi-dong-da-fa" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#4-vim-kuai-su-yi-dong-da-fa">
+                    4. Vim,快速移动大法
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-5-vim-kuai-su-zeng-shan-gai-cha" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#5-vim-kuai-su-zeng-shan-gai-cha">
+                    5. Vim,快速增删改查
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-6-vim-ru-he-sou-suo-ti-huan" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#6-vim-ru-he-sou-suo-ti-huan">
+                    6. Vim,如何搜索替换
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-7-vim-duo-wen-jian-cao-zuo" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#7-vim-duo-wen-jian-cao-zuo">
+                    7. Vim,多文件操作
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-8-shi-yao-shi-vim-de-text-object" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#8-shi-yao-shi-vim-de-text-object">
+                    8. 什么是 Vim 的 text object
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-9-vim-fu-zhi-nian-tie-yu-ji-cun-qi-de-shi-yong" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#9-vim-fu-zhi-nian-tie-yu-ji-cun-qi-de-shi-yong">
+                    9. Vim 复制粘贴于寄存器的使用
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-10-qiang-da-de-vim-hong-macro" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#10-qiang-da-de-vim-hong-macro">
+                    10. 强大的 Vim 宏(macro)
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-11-vim-bu-quan-da-fa" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#11-vim-bu-quan-da-fa">
+                    11. Vim 补全大法
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-12-gei-vim-huan-ge-pei-se" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#12-gei-vim-huan-ge-pei-se">
+                    12. 给 Vim 换个配色
+                  </a>
+                </li>
+                
+              </ul>
+              
+            </li>
+            
+            <li>
+              <a id="link-config" class="toc is-size-7 "
+                href="https://blog.zeekrs.dev/posts/vim/#config">
+                编写 Vim 配置,我的 Vim 我做主
+              </a>
+              
+              <ul>
+                
+                <li>
+                  <a id="link-vim-ying-she-mi-ren-yan" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#vim-ying-she-mi-ren-yan">
+                    Vim 映射迷人眼
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-xue-xi-he-shi-yong-pei-zhi" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#xue-xi-he-shi-yong-pei-zhi">
+                    学习和使用配置
+                  </a>
+                </li>
+                
+                <li>
+                  <a id="link-cong-ling-pei-zhi-zi-ji-de-neovim" class="toc is-size-7" href="https://blog.zeekrs.dev/posts/vim/#cong-ling-pei-zhi-zi-ji-de-neovim">
+                    从零配置自己的 NeoVim
+                  </a>
+                </li>
+                
+              </ul>
+              
+            </li>
+            
+            <li>
+              <a id="link-plugin" class="toc is-size-7 "
+                href="https://blog.zeekrs.dev/posts/vim/#plugin">
+                常 Vim 安装插件,竟如此简单
+              </a>
+              
+            </li>
+            
+          </ul>
+        </aside>
+      </div>
+      
+    </div>
+  </div>
+</section>
+
+
+  
+  <section class="modal" id="search-modal">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+      <header class="modal-card-head">
+        <p class="modal-card-title">Search</p>
+      </header>
+      <section class="modal-card-body">
+        <div class="field mb-2">
+          <div class="control">
+            <input class="input" id="search" placeholder="Search this website." type="search" />
+          </div>
+        </div>
+        <div class="search-results">
+          <div class="search-results__items"></div>
+        </div>
+      </section>
+    </div>
+    <button aria-label="close" class="modal-close is-large"></button>
+  </section>
+  
+
+
+  
+
+
+
+  
+
+
+
+  <footer class="footer py-4">
+    <div class="content has-text-centered">
+      <p>
+        Built with
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-code"></i>
+          </span>
+          <span>code</span>
+        </span>
+        and
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-heart"></i>
+          </span>
+          <span>love</span>
+        </span>
+      </p>
+      <p>
+        Powered by
+        <span class="icon-text">
+          <span class="icon">
+            <i class="fas fa-power-off"></i>
+          </span>
+          <span>zola</span>
+        </span>
+      </p>
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha384-vtXRMe3mGCbOeY7l30aIg8H9p3GdeSe4IFlP6G8JMa7o7lXvnz3GFKzPxzJdPfGK" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/galleria.min.js" integrity="sha384-QSfwGT8/EU536DKdtyP2D6SLlh8zBaZ0cVkwfrwhqzIU9VCfJT00CLVP5t+HAiYg" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/galleria@1.6.1/dist/themes/folio/galleria.folio.min.js" integrity="sha384-DwpKI+deZB267+hPKwiOIc5Y2GKsVL0mR6hgz7GgIu7AgAMYqJwcJKY1YBNfhWcY" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@8.13.5/dist/mermaid.min.js" integrity="sha384-0yWn54pSGtfKCU+skfA69l25VsCw+MZt4LQov3xNRoS7YkAMrFokGgSBnAWSK4pv" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/chart.xkcd@1.1.13/dist/chart.xkcd.min.js" integrity="sha384-xC3h1+IHXK8seA+8KfT79Z4e0GPsznjXBoMa5nd8ooWKplPyXx92NOmljWxLC/cs" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://blog.zeekrs.dev/elasticlunr.min.js"></script>
+  <script src="https://blog.zeekrs.dev/search_index.en.js"></script><script src="https://blog.zeekrs.dev/js/site.js"></script>
+
+  
+
+<script type="text/javascript">
+  const menuBarHeight = document.querySelector("nav.navbar").clientHeight;
+  const tocItems = document.querySelectorAll(".toc");
+  const navSections = new Array(tocItems.length);
+
+  tocItems.forEach((el, i) => {
+    let id = el.getAttribute("id").substring(5);
+    navSections[i] = document.getElementById(id);
+  })
+
+  function isVisible(tocIndex) {
+    const current = navSections[tocIndex];
+    const next = tocIndex < tocItems.length - 1 ? navSections[tocIndex + 1]
+      : document.querySelectorAll("section.section").item(1);
+
+    const c = current.getBoundingClientRect();
+    const n = next.getBoundingClientRect();
+    const h = (window.innerHeight || document.documentElement.clientHeight);
+
+    return (c.top <= h) && (n.top - menuBarHeight >= 0);
+  }
+
+  function activateIfVisible() {
+    for (b = true, i = 0; i < tocItems.length; i++) {
+      if (b && isVisible(i)) {
+        tocItems[i].classList.add('is-active');
+        b = false;
+      } else
+        tocItems[i].classList.remove('is-active');
+    }
+  }
+
+  var isTicking = null;
+  window.addEventListener('scroll', () => {
+    if (!isTicking) {
+      window.requestAnimationFrame(() => {
+        activateIfVisible();
+        isTicking = false;
+      });
+      isTicking = true;
+    }
+  }, false);
+</script>
+
+
+
+
+
+  
+  
+</body>
+
+</html>
